@@ -1,0 +1,8 @@
+prefix=/home/pedro/catkin_ws/install
+
+Name: tcc
+Description: Description of tcc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
